@@ -12,7 +12,7 @@ A simple web server hosted on AWS EC2 using Apache.
 
 ## 📸 Screenshots  
 ### 1. EC2 Instance in AWS Console  
-![EC2 Instance](./screenshots/ec2-instance.png)  
+![EC2 Instance](assets/EC2_Instance_in_AWS_Console.png)  
 
 ### 2. Apache Service Status  
 ![Apache Status](assets/Apache_Service_Status.png)  
