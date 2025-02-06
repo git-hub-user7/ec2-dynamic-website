@@ -9,6 +9,8 @@ Copy and paste the following link in your browser to view the web server :
 
 `http://52.54.140.13`
 
+**Note**:
+Maintaining a live, secure (HTTPS-enabled) web server typically incurs additional costs, such as purchasing a domain, using an Elastic IP, and configuring DNS management with Route 53. Therefore, this web server is set up with HTTP functionality only for demonstration purposes.
 
 ## 🌟 Features  
 - **EC2 Instance**: t2.micro (Free Tier).
@@ -55,8 +57,6 @@ Copy and paste the following link in your browser to view the web server :
 Create /var/www/html/index.html → Test at http://<public-ip>.
 ```
 
-**Note**:
-Maintaining a live, secure (HTTPS-enabled) web server typically incurs additional costs, such as purchasing a domain, using an Elastic IP, and configuring DNS management with Route 53. Therefore, this web server is set up with HTTP functionality only for demonstration purposes.
 
 👨💻 Author:  
   **Dhwarakesh Srinivasan**
