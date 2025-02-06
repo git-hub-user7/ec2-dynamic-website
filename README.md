@@ -47,7 +47,7 @@ A simple web server hosted on AWS EC2 using Apache.
    sudo yum install httpd -y  
    sudo systemctl start httpd
 ```
-4.**Host a Website**:
+4. **Host a Website**:
 ```bash
 Create /var/www/html/index.html → Test at http://<public-ip>.
 ```
