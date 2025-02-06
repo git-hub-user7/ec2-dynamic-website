@@ -11,7 +11,7 @@ A simple web server hosted on AWS EC2 using Apache.
 - **EC2 Instance**: t2.micro (Free Tier).
 - **Elastic IP**: Providing stable live link to the web server. 
 - **Apache Web Server**: Hosting a static HTML page.  
-- **Security**: Restricted SSH access to your IP.  
+- **Security**: Restricted SSH access to the IP.  
 
 ## 📸 Screenshots  
 ### 1. EC2 Instance in AWS Console  
