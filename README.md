@@ -4,7 +4,6 @@
 [![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org)  
 
 A simple web server hosted on AWS EC2 using Apache.  
-[Click here to view the live server] (http://3.221.52.167)
 
 ## 🌟 Features  
 - **EC2 Instance**: t2.micro (Free Tier).  
