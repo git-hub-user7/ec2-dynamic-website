@@ -5,8 +5,11 @@
 
 A simple web server hosted on AWS EC2 using Apache.  
 
+[Click here to view the web server] (http://52.54.140.13)
+
 ## 🌟 Features  
-- **EC2 Instance**: t2.micro (Free Tier).  
+- **EC2 Instance**: t2.micro (Free Tier).
+- **Elastic IP**: Providing stable live link to the web server. 
 - **Apache Web Server**: Hosting a static HTML page.  
 - **Security**: Restricted SSH access to your IP.  
 
@@ -31,7 +34,6 @@ A simple web server hosted on AWS EC2 using Apache.
    - Security Group: Allow SSH (Port 22) and HTTP (Port 80).  
 2. **Connect via SSH**:  
    ```bash  
-
    ssh -i "your-key.pem" ec2-user@<public-ip>  
    ```
 3. **Install Apache**:
@@ -44,6 +46,8 @@ A simple web server hosted on AWS EC2 using Apache.
 Create /var/www/html/index.html → Test at http://<public-ip>.
 ```
 
+**Note**:
+Maintaining a live, secure (HTTPS-enabled) web server typically incurs additional costs, such as purchasing a domain, using an Elastic IP, and configuring DNS management with Route 53. Therefore, this web server is set up with HTTP functionality only for demonstration purposes.
 
 👨💻 Author:  
   **Dhwarakesh Srinivasan**
