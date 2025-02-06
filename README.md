@@ -7,7 +7,7 @@ A simple web server hosted on AWS EC2 using Apache.
 
 Copy and paste the following link in your browser to view the web server :
 
-http://52.54.140.13
+`http://52.54.140.13`
 (If the page loads an error page, add http:// before the link)
 
 ## 🌟 Features  
