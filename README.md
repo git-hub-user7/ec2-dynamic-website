@@ -18,7 +18,7 @@ A simple web server hosted on AWS EC2 using Apache.
 ![Apache Status](assets/Apache_Service_Status.png)  
 
 ### 3. Website Demo  
-![Website](./screenshots/website-demo.png)  
+![Website](assets/Website_Demo.png)  
 
 ## 🛠️ Technologies Used  
 - **AWS EC2**: Virtual server hosting.  
