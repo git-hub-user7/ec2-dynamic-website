@@ -5,7 +5,10 @@
 
 A simple web server hosted on AWS EC2 using Apache.  
 
-[Click here to view the web server](http://52.54.140.13)
+Copy and paste the following link in your browser to view the web server :
+
+http://52.54.140.13
+(If the page loads an error page, add http:// before the link)
 
 ## 🌟 Features  
 - **EC2 Instance**: t2.micro (Free Tier).
