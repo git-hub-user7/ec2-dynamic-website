@@ -46,5 +46,5 @@ Create /var/www/html/index.html → Test at http://<public-ip>.
 ```
 
 
-👨💻 Author
-Dhwarakesh Srinivasan
+👨💻 Author:  
+  **Dhwarakesh Srinivasan**
