@@ -5,12 +5,8 @@
 
 A simple web server hosted on AWS EC2 using Apache.  
 
-Copy and paste the following link in your browser to view the web server :
-
-`http://52.54.140.13`
-
 **Note**:
-Maintaining a live, secure (HTTPS-enabled) web server typically incurs additional costs, such as purchasing a domain, using an Elastic IP, and configuring DNS management with Route 53. Therefore, this web server is set up with HTTP functionality only for demonstration purposes.
+Maintaining a live, secure (HTTPS-enabled) web server typically incurs additional costs, such as using an Elastic IP, idle ip running costs, purchasing a domain, and configuring DNS management with Route 53. Therefore, a live link cannot be provided, but the screenshots of the same are uploaded here for reference.
 
 ## 🌟 Features  
 - **EC2 Instance**: t2.micro (Free Tier).
