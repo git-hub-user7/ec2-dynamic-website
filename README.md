@@ -6,13 +6,12 @@
 A simple web server hosted on AWS EC2 using Apache.  
 
 **Note**:
-Maintaining a live, secure (HTTPS-enabled) web server typically incurs additional costs, such as using an Elastic IP, idle ip running costs, purchasing a domain, and configuring DNS management with Route 53. Therefore, a live link cannot be provided, but the screenshots of the same are uploaded here for reference.
+Maintaining a live, secure (HTTPS-enabled) web server typically incurs additional costs, such as using an Elastic IP, idle ip running costs, purchasing a domain, and configuring DNS management with Route 53. Therefore, a live link is not provided, but the screenshots of the same are uploaded here for reference.
 
 ## 🌟 Features  
-- **EC2 Instance**: t2.micro (Free Tier).
-- **Elastic IP**: Providing stable live link to the web server. 
+- **EC2 Instance**: t2.micro (Free Tier). 
 - **Apache Web Server**: Hosting a static HTML page.  
-- **Security**: Restricted SSH access to the IP.  
+- **Security**: Restricted SSH access to the IP.
 
 ## 📸 Screenshots  
 ### 1. EC2 Instance in AWS Console  
